@@ -68,4 +68,4 @@ Graduate and entry-level opportunities in:
 
 ## Connect
 
-LinkedIn: Add your LinkedIn URL here
+[LinkedIn]([YOUR-LINKEDIN-URL](https://www.linkedin.com/in/ashutosh-shinde-70ba30255/))
