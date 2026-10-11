@@ -68,4 +68,4 @@ Graduate and entry-level opportunities in:
 
 ## Connect
 
-[LinkedIn] : https://www.linkedin.com/in/ashutosh-shinde-70ba30255/
+[LinkedIn](https://www.linkedin.com/in/ashutosh-shinde-70ba30255/)
